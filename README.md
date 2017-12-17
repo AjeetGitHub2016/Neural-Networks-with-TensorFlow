@@ -1,2 +1,3 @@
 # Neural-Network-with-TensorFlow
-Simple Neural Network, Convolution Neural Network and Recurrent Neural Network build in TensorFlow in tflearn with the sufficient theory. Also contains the TensorBuilder for model vizualization. 
+Tensorflow is the Google's open source library for machine learning(ML) applications. This getting edge compare to other ML open source libraries. 
+To start with the tensor flow documentations[https://www.tensorflow.org/get_started/get_started] may become little bit 
